@@ -1,0 +1,1 @@
+This repository tackles the renowned Titanic Survival prediction challenge obtained from Kaggle.com. The project involves utilizing passenger details to predict their survival. We employed the Random Forest Classifier learning model to accomplish this task.
